@@ -3,7 +3,7 @@
 
 In this project, I explored the exciting world of Stable Diffusion by using pre-trained models like Dreamlike Diffusion and Stable Diffusion XL from Hugging Face. I worked with text prompts to generate stunning images and optimized the generation process by leveraging GPU acceleration (CUDA) for efficiency and memory optimization using torch.float16.
 
-Through negative prompting, I guided the model to avoid unwanted elements in the generated images. Additionally, I fine-tuned various parameters such as:
+Through** negative prompting**, I guided the model to avoid unwanted elements in the generated images. Additionally, I fine-tuned various parameters such as:
 
 num_inference_steps: Determining the number of denoising steps for higher quality.
 height and width: Customizing the resolution of the generated images.
