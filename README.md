@@ -17,15 +17,15 @@ Fork/Dowload this repository and try it out! It’s an exciting way to turn text
 
 ## 2) Text_to_speech_generation_with_LLM
 
-In this project, I explored how to transform written text into natural, human-like speech using Hugging Face's pre-trained models. The notebook demonstrates how to leverage powerful TTS models with minimal setup. Key components include:
+In this project, I explored how to transform written text into natural,** human-like speech using Hugging Face's pre-trained models**. The notebook demonstrates how to leverage powerful TTS models with minimal setup. Key components include:
 
-Text Input Handling: Users can input any text, and the model converts it into speech.
+**Text Input Handling:** Users can input any text, and the model converts it into speech.
 
-Pre-trained Models: I utilized high-quality LLMs from Hugging Face for efficient TTS conversion.
+**Pre-trained Models:** I utilized high-quality LLMs from Hugging Face for efficient TTS conversion.
 
-Seamless Google Colab Integration: The notebook is designed for easy execution in Google Colab, allowing users to experience quick results without the hassle of local setups.
+**Seamless Google Colab Integration:** The notebook is designed for easy execution in Google Colab, allowing users to experience quick results without the hassle of local setups.
 
-Detailed Explanations: Each code block is thoroughly explained, making the process accessible to people with even basic data science or deep learning knowledge.
+**Detailed Explanations:** Each code block is thoroughly explained, making the process accessible to people with even basic data science or deep learning knowledge.
 
 The project offers flexibility, allowing users to customize the input text and experiment with different output voices and parameters. It’s an exciting foray into the world of AI-generated speech, offering high potential for applications in media, entertainment, and accessibility tools.
 
