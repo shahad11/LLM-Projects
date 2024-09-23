@@ -24,6 +24,7 @@ Text Input Handling: Users can input any text, and the model converts it into sp
 Pre-trained Models: I utilized high-quality LLMs from Hugging Face for efficient TTS conversion.
 
 Seamless Google Colab Integration: The notebook is designed for easy execution in Google Colab, allowing users to experience quick results without the hassle of local setups.
+
 Detailed Explanations: Each code block is thoroughly explained, making the process accessible to people with even basic data science or deep learning knowledge.
 
 The project offers flexibility, allowing users to customize the input text and experiment with different output voices and parameters. It’s an exciting foray into the world of AI-generated speech, offering high potential for applications in media, entertainment, and accessibility tools.
