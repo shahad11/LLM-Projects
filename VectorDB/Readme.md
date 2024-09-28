@@ -3,6 +3,7 @@
 ## 1) Hands-On: Building a Vector Database with OpenAI Embeddings Using LangChain
 
 ### 📋 What You’ll Learn:
+
 **Downloading and Loading Data:** Quickly fetch and prepare text data for processing.
 
 **Splitting Documents:** Efficiently break down large text files into manageable chunks using the RecursiveCharacterTextSplitter.
