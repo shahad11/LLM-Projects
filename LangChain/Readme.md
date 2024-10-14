@@ -58,3 +58,16 @@ I'm excited to share my latest hands-on project that walks you through how to im
 - Step-by-step tutorial on building AI-driven workflows using LangChain.
   
 This project is designed to be easy to follow and can be quickly implemented in Google Colab. Whether you're just starting out with LangChain or looking to deepen your knowledge, this tutorial will help you get hands-on experience with real-world applications.
+
+## 5) Memory_in_LangChain.ipynb
+
+In the world of conversational AI, memory is a critical component that allows language models to retain context across multiple interactions. This capability is essential for building intelligent agents that can engage in meaningful conversations and provide relevant responses based on prior exchanges.
+
+I’m excited to share my latest project, where I dive deep into how memory works in LangChain and how it enhances conversational AI! If you've been working with language models and want to explore how to maintain context over multiple interactions, this tutorial is for you.
+
+**💡 What You’ll Learn:**
+- How to use different types of memory in LangChain, such as ConversationBufferMemory and ConversationBufferWindowMemory.
+- Practical examples on how to build AI agents that remember and respond based on previous interactions.
+- Step-by-step explanations with easily replicable code for a seamless learning experience.
+
+This project is designed to be clear, well-structured, and easy to implement in Google Colab. Whether you're new to LangChain or looking to deepen your understanding of memory management in AI, you’ll find everything you need in this guide!
