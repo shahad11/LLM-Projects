@@ -71,3 +71,14 @@ I’m excited to share my latest project, where I dive deep into how memory work
 - Step-by-step explanations with easily replicable code for a seamless learning experience.
 
 This project is designed to be clear, well-structured, and easy to implement in Google Colab. Whether you're new to LangChain or looking to deepen your understanding of memory management in AI, you’ll find everything you need in this guide!
+
+## 6) How_Pandas_MultidataFrame_Agent_works_(OPEN_AI)
+
+In this Notebook, I explore how Large Language Models (LLMs) like OpenAI can intelligently interact with multiple Pandas DataFrames using LangChain. This opens up exciting new possibilities for making data analysis more intuitive and efficient.
+
+**💡 What You’ll Learn:**
+- How to use LangChain Agents to process and analyze data across multiple Pandas DataFrames.
+- A hands-on approach to leveraging OpenAI LLM for answering complex data-related queries.
+- Step-by-step explanations, making it easy for anyone to follow along and replicate the results.
+
+This project is designed to be straightforward and interactive, and you can easily try it out on Google Colab. If you’re interested in combining LLMs with powerful data manipulation tools like Pandas, this is a must-try!
